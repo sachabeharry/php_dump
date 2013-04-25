@@ -13,6 +13,6 @@ Typically, developers would use Dump when debugging or investigating PHP web app
 
 ```
 $a = array( 'this', 'is', 'a', 'test' );
-Dump::HTML($a);
+Dump::html($a);
 ```
 
